@@ -1,0 +1,7 @@
+Lucas Michellys lmichell@ucsc.edu
+
+In this lab we wrote an event driven program to emulate the functionality of a toaster oven, with three different modes and different aspects including utilizing LEDS. and button presses to register user input. Things that I thought were important in this lab was the concept of using events in order to trigger different results.
+
+When I was approaching this lab I first attended Bobby's tutor section and there he explained the ins and outs of the lab fairly clearly. From here on our I read the lab manual a few times and then I continued to begin my implementation and test parts of my code with the hardware as I was going through the lab. I ran into lots of errors with my code this time around, Many hours were spent debugging and testing code with the hardware. If I were to approach this lab another time, I would definelty make a solid structure with necessities for each aspect of the lab.
+
+In my process of implementing the lab, I struggled alot. However, I did find a way to make the toaster oven function in all aspects. I spent about 20 hours on this lab. I liked the final product when all worked smoothly. I feel like this lab was worthwhile as it taught you how to interact with the hardware at a high level. I liked how there was a description of the implementation of an finite state machine with the previous lab. I think the lab manual did an alright job of describing what needed to be done. 
